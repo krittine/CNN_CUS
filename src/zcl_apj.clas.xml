@@ -5,7 +5,7 @@
    <VSEOCLASS>
     <CLSNAME>ZCL_APJ</CLSNAME>
     <LANGU>E</LANGU>
-    <DESCRIPT>Create Auth. User for Project Budget</DESCRIPT>
+    <DESCRIPT>Update Serial in DO on Application Jobs</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>

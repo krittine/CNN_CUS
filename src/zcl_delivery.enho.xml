@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <TOOL>BADI_IMPL</TOOL>
-   <SHORTTEXT>Modify Standard and Custom Fields for Delivery Header and It</SHORTTEXT>
+   <SHORTTEXT>Custom Logic BAdI Sorter for BAdI MM_PUR_S4_PO_MODIFY_ITEM</SHORTTEXT>
    <SPOT_NAME>ES_LE_SHP_EXTEND</SPOT_NAME>
    <IMPL>
     <ENH_BADI_IMPL_DATA>
@@ -12,7 +12,7 @@
      <IMPL_NAME>ZCL_DELIVERY</IMPL_NAME>
      <IMPL_CLASS>ZCL_DELIVERY</IMPL_CLASS>
      <ACTIVE>X</ACTIVE>
-     <IMPL_SHORTTEXT>Modify Standard and Custom Fields for Delivery Header and Items</IMPL_SHORTTEXT>
+     <IMPL_SHORTTEXT>Custom Logic BAdI Sorter for BAdI LE_SHP_SAVE_DOCUMENT_PREPARE</IMPL_SHORTTEXT>
     </ENH_BADI_IMPL_DATA>
    </IMPL>
   </asx:values>

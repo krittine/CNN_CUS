@@ -1,0 +1,19 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Update serial in Outbound Delivery",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "catalogName": "ZBJ_DO_CAT"
+  },
+  "parameters": {
+    "singleValueParameters": [
+      {
+        "name": "P_DO",
+        "value": ""
+      }
+    ]
+  }
+}
